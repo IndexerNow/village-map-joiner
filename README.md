@@ -5,6 +5,8 @@
 
 **Website:** [https://villagemapjoiner.in](https://villagemapjoiner.in)
 
+📖 **[Read the blog & full site reference →](./blog/README.md)** — feature audit, guides, and every page of the site.
+
 ---
 
 ## What is Village Map Joiner?
